@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://faizan-portfolio-lake.vercel.app/sitemap.xml
